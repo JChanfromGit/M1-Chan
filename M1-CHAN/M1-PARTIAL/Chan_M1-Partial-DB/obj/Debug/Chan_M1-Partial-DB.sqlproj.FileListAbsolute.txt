@@ -1,0 +1,10 @@
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\bin\Debug\Chan_M1-Partial-DB.dacpac
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\bin\Debug\Chan_M1_Partial_DB.dll
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\bin\Debug\Chan_M1_Partial_DB.pdb
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\Chan_M1-Partial-DB.sqlproj.AssemblyReference.cache
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\Model.xml
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\refactor.xml
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\postdeploy.sql
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\predeploy.sql
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\Chan_M1_Partial_DB.dll
+C:\Files\VSC\M1-Partial\M1-CHAN\M1-PARTIAL\Chan_M1-Partial-DB\obj\Debug\Chan_M1_Partial_DB.pdb

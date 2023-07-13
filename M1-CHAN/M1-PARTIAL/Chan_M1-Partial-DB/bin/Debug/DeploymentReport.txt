@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Customer_Item] (Table)
+       [dbo].[Customer_Preview] (Table)
+       [dbo].[FK_Customer_Item] (Foreign Key)
+       [dbo].[_CustomerItems_Value] (Procedure)
+       [dbo].[spAdd_Item] (Procedure)
+       [dbo].[spCustomer_Login] (Procedure)
+       [dbo].[spCustomer_Registration] (Procedure)
+       [dbo].[spDelete_Item] (Procedure)
+       [dbo].[spUpdate_Item] (Procedure)
+
+** Supporting actions

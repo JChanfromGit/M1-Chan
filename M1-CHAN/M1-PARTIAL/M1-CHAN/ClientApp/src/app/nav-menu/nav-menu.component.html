@@ -1,0 +1,34 @@
+<header>
+  <nav class="navbar navbar-expand-sm navbar-toggleable-sm box-shadow mb-3 body">
+    <div class="container">
+      <a class="navbar-brand text-gray" [routerLink]="['/']">M1 List Your Items Now!</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target=".navbar-collapse"
+        aria-label="Toggle navigation"
+        [attr.aria-expanded]="isExpanded"
+        (click)="toggle()"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end" [ngClass]="{ show: isExpanded }">
+        <ul class="navbar-nav flex-grow text-center">
+          <li class="nav-item" [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{ exact: true }">
+            <a class="nav-link text-gray" [routerLink]="['/']">Home</a>
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-gray" [routerLink]="['/AddItem']">Add Item</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-gray" [routerLink]="['/Login']">Login</a>
+          </li>
+          <li class="nav-item" [routerLinkActive]="['link-active']">
+            <a class="nav-link text-gray" [routerLink]="['Register']">Register</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

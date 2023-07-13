@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\M1-PARTIAL",
+    "\\M1-PARTIAL\\Chan_M1-Partial-DB",
+    "\\M1-PARTIAL\\M1-CHAN",
+    "\\M1-PARTIAL\\M1-CHAN\\ClientApp",
+    "\\M1-PARTIAL\\M1-CHAN\\ClientApp\\.angular\\cache",
+    "\\M1-PARTIAL\\M1-CHAN\\ClientApp\\src",
+    "\\M1-PARTIAL\\M1-CHAN\\ClientApp\\src\\app",
+    "\\M1-PARTIAL\\M1-CHAN\\ClientApp\\src\\app\\Forms"
+  ],
+  "SelectedNode": "\\M1-PARTIAL\\M1-CHAN\\ClientApp\\src\\app\\services",
+  "PreviewInSolutionExplorer": false
+}

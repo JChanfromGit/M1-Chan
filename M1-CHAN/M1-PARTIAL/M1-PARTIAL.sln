@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1-CHAN", "M1-CHAN\M1-CHAN.csproj", "{CC1EC289-7843-4854-B095-6FE88747671C}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Chan_M1-Partial-DB", "Chan_M1-Partial-DB\Chan_M1-Partial-DB.sqlproj", "{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1EC289-7843-4854-B095-6FE88747671C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1EC289-7843-4854-B095-6FE88747671C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1EC289-7843-4854-B095-6FE88747671C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1EC289-7843-4854-B095-6FE88747671C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84E8ACB-691F-4C5B-B1C7-D3C70667BDD8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B29430E-C3AB-4DEA-9FDC-01B5A9233CF2}
+	EndGlobalSection
+EndGlobal
